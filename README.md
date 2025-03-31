@@ -1,5 +1,5 @@
 # 💻 Hi, I'm Kuldip Vaghasiya! 
-🚀 Full Stack Developer | 🗄️ MySQL Database Specialist | 🌐 React Frontend Expert
+🚀 Full Stack Developer 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
