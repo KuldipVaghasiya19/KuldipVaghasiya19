@@ -25,23 +25,45 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🏆 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kuldipvaghasiya0?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/kuldipvaghasiya0/)
-
-## 🏆 LeetCode Badges
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkuldipvaghasiya0&logo=leetcode&logoColor=yellow)](https://leetcode.com/kuldipvaghasiya0/)
-
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/KuldipVaghasiya19/DDU_AD_PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KuldipVaghasiya19&repo=DDU_AD_PROJECT&theme=dark" width="400"/>
-  </a>
-  <a href="https://github.com/KuldipVaghasiya19/SQLify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KuldipVaghasiya19&repo=SQLify&theme=dark" width="400"/>
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎓 DDU AD Project</h3>
+        <div align="center">
+          <a href="https://github.com/KuldipVaghasiya19/DDU_AD_PROJECT" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=KuldipVaghasiya19&repo=DDU_AD_PROJECT&theme=tokyonight" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/KuldipVaghasiya19/DDU_AD_PROJECT" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🗃️ SQLify</h3>
+        <div align="center">
+          <a href="https://github.com/KuldipVaghasiya19/SQLify" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=KuldipVaghasiya19&repo=SQLify&theme=tokyonight" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/KuldipVaghasiya19/SQLify" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
